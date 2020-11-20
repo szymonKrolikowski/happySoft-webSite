@@ -1,0 +1,13 @@
+{
+    "version": 3,
+    "mappings": "AAAA,OAAO,CAAC,6FAAI;AAIZ,AAAA,CAAC;AACD,OAAO;AACP,QAAQ,CAAC;EACL,OAAO,EAAE,CAAC;EACV,MAAM,EAAE,CAAC;EACT,UAAU,EAAE,UAAU;CAAG;;AAE7B,AAAA,IAAI,CAAC;EACD,SAAS,EAAE,KAAK;EAChB,WAAW,EAAE,qBAAqB;CAAG",
+    "sources": [
+        "../sass/main.sass",
+        "../sass/_colors.sass",
+        "../sass/_small.sass",
+        "../sass/_medium.sass",
+        "../sass/_large.sass"
+    ],
+    "names": [],
+    "file": "main.css"
+}
